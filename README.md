@@ -29,16 +29,6 @@ A **CRUD (Create, Read, Update, Delete) API** for managing descriptions, built u
 
 ---
 
-## Installation and Setup
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-
-
-
-
 ## 🎥 Demo Video  
 
 <div align="center">
@@ -56,6 +46,16 @@ A **CRUD (Create, Read, Update, Delete) API** for managing descriptions, built u
 # Order , Products
 
 https://drive.google.com/file/d/1XsaFNjVZw7RjT6RYw-TpOFG8r2hKcJXw/view?usp=sharing
+
+# Phpmyadmin
+<div align="center">
+  <video height="450" controls src="https://github.com/user-attachments/assets/9d8ded55-8ff3-40f3-9f31-292faea0489d"></video>
+</div>
+
+
+
+
+
 
 
 
